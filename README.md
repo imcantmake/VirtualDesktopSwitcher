@@ -2,7 +2,7 @@
 
 Simple AHK v2 script to switch between Windows virtual desktops.  
 A lightweight AutoHotkey v2 script to switch between Windows virtual desktops using hotkeys.  
-Made by **Lino ⚡**
+Made by **ItsMeeKyoz**
 
 ---
 
@@ -19,7 +19,7 @@ Made by **Lino ⚡**
 
 | Key | Action |
 |-----|---------|
-| **Alt + `** | Move to the desktop on the left |
+| **Alt + `** | Move the desktop |
 | **Alt + Esc** | Stop the script (exit) |
 
 ---
@@ -60,4 +60,4 @@ When running, a tray icon (⚙️ AHK) appears on the system tray.
 ---
 
 ## 🧑‍💻 Author
-Made with ⚡ by **Lino**
+Made with ⚡ by **ItsMeeKyoz**
