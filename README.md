@@ -26,7 +26,12 @@ Made by **ItsMeeKyoz**
 
 ## ⚙️ Requirements
 
-- **AutoHotkey v2**  
+- **AutoHotkey v2**
+- https://www.autohotkey.com/
+  
+- **VirtualDesktopAccessor**
+- https://github.com/Ciantic/VirtualDesktopAccessor
+
 - `VirtualDesktopAccessor.dll` (must be placed in the same path as below)
 
 Example path used in script:
